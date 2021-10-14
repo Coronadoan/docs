@@ -1,4 +1,4 @@
----
+---imeu network  att for all network  unlock simei
 title: Supported operating systems
 intro: 'You can use {% data variables.product.prodname_desktop %} on any supported operating system.'
 miniTocMaxHeadingLevel: 3
